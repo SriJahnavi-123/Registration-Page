@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+.container {
+    width: 500px;
+    margin: 2% auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color:brown;
+}
+.container label {
+    display:contents;
+    
+    margin: 10px;
+}
+
+.container input[type="text"],
+.container input[type="email"],
+.container input[type="password"]
+.container input[type="date"]
+.container input[type="mobile"]
+.container input[type="radio"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color:azure;
+    border:none;
+}
